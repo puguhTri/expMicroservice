@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="configserver" />
         <module name="eurukaserver" />
+        <module name="userservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="configserver" target="1.8" />
       <module name="eurukaserver" target="1.8" />
       <module name="expMicroservice" target="1.8" />
+      <module name="userservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
