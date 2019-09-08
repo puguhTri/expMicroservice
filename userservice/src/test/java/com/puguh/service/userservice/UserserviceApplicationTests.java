@@ -1,4 +1,4 @@
-package com.puguh.userservice.userservice;
+package com.puguh.service.userservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

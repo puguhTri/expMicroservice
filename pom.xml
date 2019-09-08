@@ -21,7 +21,6 @@
         <module>eurukaserver</module>
         <module>configserver</module>
         <module>userservice</module>
-
     </modules>
 
     <profiles>
