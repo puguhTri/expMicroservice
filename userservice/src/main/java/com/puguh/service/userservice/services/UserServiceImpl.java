@@ -27,7 +27,6 @@ public class UserServiceImpl implements UserService {
 
         publisher.send(USER_CREATED_TOPIC, input);
 
-
         return user;
     }
 
