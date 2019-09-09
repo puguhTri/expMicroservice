@@ -3,6 +3,8 @@ package com.puguh.service.userservice.kafkaConfig;
 import com.puguh.service.userservice.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
+import org.springframework.stereotype.Component;
+
 
 public class Publisher {
 
