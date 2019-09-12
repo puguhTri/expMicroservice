@@ -18,7 +18,7 @@ public class Consumer {
     @Autowired
     private EmailService emailService;
 
-    @KafkaListener(topics = "USER_CREATED_TOPIC")
+    @KafkaListener(topics = "${spring.kafka.topic.userCreated}")
     public void receive(UserDto payload) {
         LOGGER.info("received payload='{}'", payload);
         emailService.sendSimpleMessage(payload);

@@ -10,6 +10,7 @@
         <module name="emailservice" />
         <module name="eurukaserver" />
         <module name="eurukaserver (1)" />
+        <module name="gatewayservice" />
         <module name="userservice" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
       <module name="eurukaserver" target="1.8" />
       <module name="eurukaserver (1)" target="1.8" />
       <module name="expMicroservice" target="1.8" />
+      <module name="gatewayservice" target="1.8" />
       <module name="userservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>

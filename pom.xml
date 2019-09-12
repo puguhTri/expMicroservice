@@ -22,6 +22,7 @@
         <module>configserver</module>
         <module>userservice</module>
         <module>emailservice</module>
+        <module>gatewayservice</module>
     </modules>
 
     <profiles>
