@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/authjwtservice/authjwtservice.iml" filepath="$PROJECT_DIR$/authjwtservice/authjwtservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonservice/commonservice.iml" filepath="$PROJECT_DIR$/commonservice/commonservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/emailservice/emailservice.iml" filepath="$PROJECT_DIR$/emailservice/emailservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurukaserver/eurukaserver.iml" filepath="$PROJECT_DIR$/eurukaserver/eurukaserver.iml" />

@@ -23,6 +23,8 @@
         <module>userservice</module>
         <module>emailservice</module>
         <module>gatewayservice</module>
+        <module>authjwtservice</module>
+        <module>commonservice</module>
     </modules>
 
     <profiles>
